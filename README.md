@@ -1,4 +1,3 @@
-(https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg)
 ### Hi there 👋, I am Rijuana
 #### I am working on web-development
 ![I am working on web-development]
